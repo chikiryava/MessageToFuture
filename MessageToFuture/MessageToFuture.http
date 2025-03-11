@@ -1,0 +1,6 @@
+@MessageToFuture_HostAddress = http://localhost:5101
+
+GET {{MessageToFuture_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
